@@ -1,4 +1,4 @@
-### I am a current Nashville Software School student working in (C# and .Net) 👋
+### I am a current [Nashville Software School](http://nashvillesoftwareschool.com/) student working in (C# and .Net) 👋
 >Full Stack Developer
 >><em> Recently, I finished FrontEnd Training </em>(JavaScript, REACT.js)!
 

@@ -1,6 +1,6 @@
 ### I am a current Nashville Software School student working in (C# and .Net) 👋
 >Full Stack Developer
->><em> I recently finished my FrontEnd Training </em>(JavaScript, REACT.js)!
+>><em> Recently I finished FrontEnd Training </em>(JavaScript, REACT.js)!
 
 
 - 🔭 I’m currently working on getting a job as a Developer in Nashville, TN...

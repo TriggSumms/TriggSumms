@@ -9,3 +9,10 @@
 - 📫 How to reach me: stsumms@gmail.com or [Linkedln](https://www.linkedin.com/in/triggsumms/) or check out the contact forms via [portfollio](https://triggsumms.github.io/) ...
 - ⚡ Fun fact: Prior to diving into software development, I went to school to study in Visual Art's!...
 
+
+Recent Certification:
+
+<br></br>
+### Post Grad List:
+<img src="https://res.cloudinary.com/triggsumms/image/upload/v1607031795/fep9gbhzxwtqrqtqbad4.png" width="30%"></img>
+

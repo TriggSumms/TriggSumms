@@ -13,7 +13,7 @@
 ### Recent Certification:
 <img src="https://res.cloudinary.com/triggsumms/image/upload/v1607031795/fep9gbhzxwtqrqtqbad4.png" width="30%"></img>
 <img src="https://res.cloudinary.com/triggsumms/image/upload/v1613874579/nkdxqar0y0ge03fx9j9g.jpg" width="30%"></img>
-<img src="https://res.cloudinary.com/triggsumms/image/upload/v1613874579/nkdxqar0y0ge03fx9j9g.jpg" width="30%"></img>
+<img src="https://res.cloudinary.com/triggsumms/image/upload/v1613874636/vnvsfitohcna06svjopo.png" width="30%"></img>
 
 
 

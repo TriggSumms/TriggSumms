@@ -15,8 +15,7 @@
 
 🧰 ToolBox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C# Logo" width="50" hieght="50" />
- <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NEt" width="50" hieght="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C# Logo" width="50" hieght="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NEt" width="50" hieght="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  alt=".Net Core" width="50" hieght="50"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" hieght="50"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" hieght="50" />
